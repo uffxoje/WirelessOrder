@@ -51,6 +51,7 @@ public class MainActivity extends Activity implements OnDetailChangedListener {
 	private Animation m_startCartAnimation;
 	private Animation m_startServeAnimation;
 
+	/**测试git提交*/
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
